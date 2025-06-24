@@ -63,6 +63,7 @@ body {
     0 0 0 15px #8cda8e,
     0 0 70px 0px #8cda8e;
     transition: transform 5s ease-in-out;
+
 }
 .container .wheel .number {
     position: absolute;
